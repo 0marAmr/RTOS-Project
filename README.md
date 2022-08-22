@@ -36,7 +36,8 @@ specifying the lower and upper bound values of the uniformly distributed timer p
 holds the values {50, 80, 110, 140, 170, 200} and the second holds the values {150, 200, 250, 300, 
 350, 400} expressing in msec the timer lower and upper bounds for a uniform distribution.
 If all values in the array are used, destroy the timers and print a message “Game Over”and stop execution.<br><br>
-> ### System Flowchart:![flowchart](https://user-images.githubusercontent.com/104662860/185845793-835a5300-2e67-416a-881e-75ed50f957f3.png)
+> ### System Flowchart:
+![flowchart](https://user-images.githubusercontent.com/104662860/185845793-835a5300-2e67-416a-881e-75ed50f957f3.png)
 
 > ### Contributors:
    - <a href="https://www.linkedin.com/in/omar-hafz-87625123b/">**Omar Amr Mahmoud**</a>
